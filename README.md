@@ -38,6 +38,11 @@ Thus you will become an efficient developer, meanwhile, a happy developer.
 If you like a project, try to do everything all by yourself before get help from others.
 Because OCOSP will always keep simple and easy to develop, you should get used to do everything yourself, that makes you in charge of your project.
 
+### Well-documented
+
+As a boss you should express your works, ideas, thoughts and codes to others as detailed as possible.
+
+
 ###
 
 ## Code convention
