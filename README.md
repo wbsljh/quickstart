@@ -23,6 +23,11 @@ If you have any question, open an issue and ask.
 
 Learn from OCOSPs already exist.
 
+### Join
+
+One OCOSP will be one github organization, choose OCOSP you interest and join.
+Open Company only pay salary to OCOSP organization members.
+
 ## Be your own boss
 
 ### Follow your interests
