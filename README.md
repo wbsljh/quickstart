@@ -19,8 +19,26 @@ You should be an expert of below tec.
 
 If you have any question, open an issue and ask.
 
+### Learn
+
+Learn from OCOSPs already exist.
+
 ## Be your own boss
 
+### Follow your interests
+
+There's a lot of OCOSPs and will become more and more.
+
+You have to choose the OCOSPs you really interest to develop.
+
+Thus you will become an efficient developer, meanwhile, a happy developer.
+
+### Try to do everything yourself
+
+If you like a project, try to do everything all by yourself before get help from others.
+Because OCOSP will always keep simple and easy to develop, you should get used to do everything yourself, that makes you in charge of your project.
+
+###
 
 ## Code convention
 
