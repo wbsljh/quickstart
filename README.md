@@ -42,8 +42,16 @@ Because OCOSP will always keep simple and easy to develop, you should get used t
 
 As a boss you should express your works, ideas, thoughts and codes to others as detailed as possible.
 
+### Eat your own dog food
 
-###
+Every OCOSP will be used by someone after release, but before that, you should eat your own dog food first.
+Not just well tested, but real use it in a real world.
+Then if you want to throw it into a dustbin, do it.
+
+### Be friendly and helpful
+
+You release a project, that means you got one more baby, and you won't let people hate your baby.
+So be a friendly and helpful daddy, especially when people say some draw backs of your baby.
 
 ## Code convention
 
